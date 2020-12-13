@@ -1,5 +1,0 @@
-source "C:/Users/mathe/esp-idf/components/efuse/Kconfig"
-source "C:/Users/mathe/esp-idf/components/esp32/Kconfig"
-source "C:/Users/mathe/esp-idf/components/esp_common/Kconfig"
-source "C:/Users/mathe/esp-idf/components/log/Kconfig"
-source "C:/Users/mathe/esp-idf/components/spi_flash/Kconfig"

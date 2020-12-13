@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Users/obel1/esp-idf/components/bootloader/subproject",
+    "build_dir":          "C:/Users/obel1/Desktop/RTS/wtf/RTS_M3/hello_world/hello_world/build/bootloader",
+    "config_file":        "C:/Users/obel1/Desktop/RTS/wtf/RTS_M3/hello_world/hello_world/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "GIT-NOTFOUND",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Users/obel1/esp-idf/components/efuse/Kconfig;C:/Users/obel1/esp-idf/components/esp32/Kconfig;C:/Users/obel1/esp-idf/components/esp_common/Kconfig;C:/Users/obel1/esp-idf/components/log/Kconfig;C:/Users/obel1/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Users/obel1/esp-idf/components/bootloader/Kconfig.projbuild;C:/Users/obel1/esp-idf/components/esptool_py/Kconfig.projbuild;C:/Users/obel1/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Users/obel1/esp-idf/components/bootloader", "C:/Users/obel1/esp-idf/components/bootloader_support", "C:/Users/obel1/esp-idf/components/efuse", "C:/Users/obel1/esp-idf/components/esp32", "C:/Users/obel1/esp-idf/components/esp_common", "C:/Users/obel1/esp-idf/components/esp_rom", "C:/Users/obel1/esp-idf/components/esptool_py", "C:/Users/obel1/esp-idf/components/log", "C:/Users/obel1/esp-idf/components/bootloader/subproject/main", "C:/Users/obel1/esp-idf/components/bootloader/subproject/components/micro-ecc", "C:/Users/obel1/esp-idf/components/partition_table", "C:/Users/obel1/esp-idf/components/soc", "C:/Users/obel1/esp-idf/components/spi_flash", "C:/Users/obel1/esp-idf/components/xtensa", "" ]
+}
